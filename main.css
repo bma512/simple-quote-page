@@ -1,0 +1,25 @@
+html {
+    background-image: url("assets/freedom.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  
+
+}
+
+blockquote {
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-size: 40px;
+    text-align: center; 
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+  
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
