@@ -7,7 +7,7 @@ html {
     padding: 0;
 }
 
-blockquote {
+.quote {
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
     font-size: 40px;
     text-align: center; 
@@ -17,7 +17,7 @@ blockquote {
     margin-right: 40px;
   }
 
-p {
+.author {
     font-family: 'Dancing Script', cursive;
     text-align: center;
 }
